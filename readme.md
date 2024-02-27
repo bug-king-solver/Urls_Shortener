@@ -31,7 +31,3 @@
    npm install
    npm run dev
    ```
-
-### Test 
-
-![1707212165289](image/readme/1707212165289.png)
